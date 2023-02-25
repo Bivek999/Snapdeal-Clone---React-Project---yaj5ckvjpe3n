@@ -97,6 +97,7 @@ const Right = () => {
         <div
           onClick={() => {
             setSelect(data);
+            //helo
           }}
           key={data.id}
         >
